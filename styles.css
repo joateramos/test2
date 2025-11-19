@@ -15,4 +15,5 @@ section {
     background: bisque;
     padding-bottom: 100 px;
     padding-top: 100 px;
+    display: flex;
 }
