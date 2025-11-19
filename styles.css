@@ -5,9 +5,9 @@ body {
 }
 
 header {
-    border-bottom: solid 2 px rgb(192, 6, 248);
-    padding: 20 px;
-    font-size: 64 px;
+    border-bottom: solid 2px rgb(192, 6, 248);
+    padding: 20px;
+    font-size: 128px;
     color: black;
     background: darkolivegreen;
 }
