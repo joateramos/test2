@@ -1,7 +1,7 @@
 body {
     color: blue;
     background: darkgray;
-   margin: 0px;
+    margin: 0px;
 }
 
 header {
@@ -11,6 +11,7 @@ header {
     color: black;
     background: darkolivegreen;
 }
+
 section {
     background: bisque;
     padding-bottom: 100 px;
@@ -19,6 +20,6 @@ section {
     justify-content: center;
 }
 
-div{
+.chamada-texto {
     margin-right: 20px;
 }
